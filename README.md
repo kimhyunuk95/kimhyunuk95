@@ -1,4 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KimHyunUk&fontSize=90)
+
+### <center> Hi there 👋 </center>
+
+<center><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a></center>
+<center><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a></center>
+<center><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> </center>
 
 <!--
 **kimhyunuk95/kimhyunuk95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
